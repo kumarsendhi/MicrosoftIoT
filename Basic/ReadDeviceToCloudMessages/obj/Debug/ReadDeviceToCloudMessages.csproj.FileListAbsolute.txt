@@ -1,0 +1,11 @@
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+C:\Kumar\IoT\Azure Windows\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+C:\Kumar\IoT\Azure Windows\IoTHub\Basic\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+C:\Kumar\IoT\Azure Windows\IoTHub\Basic\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+C:\Kumar\IoT\Azure Windows\IoTHub\Basic\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb

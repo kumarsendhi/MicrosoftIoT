@@ -1,0 +1,8 @@
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\bin\Debug\ReadCriticalQueue.exe.config
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\bin\Debug\ReadCriticalQueue.exe
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\bin\Debug\ReadCriticalQueue.pdb
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.csprojResolveAssemblyReference.cache
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.exe
+C:\Kumar\IoT\Azure Windows\IoTHub\Step1\ReadCriticalQueue\obj\Debug\ReadCriticalQueue.pdb
