@@ -1,0 +1,57 @@
+DvmdfKCi9pHwSOnermORcgNTk9bW7k0keLz/+79DKVI=
+
+HostName=seyoniothub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=DvmdfKCi9pHwSOnermORcgNTk9bW7k0keLz/+79DKVI=
+
+HostName=seyoniothub.azure-devices.net;DeviceId=seyonDevice1;SharedAccessKey=ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=
+
+{"deviceID": "seyonDevice1", "SAK": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "Protocol": "mqtt", "Data": { "Speed" : "25"}}
+
+seyondevice2
+
+
+{ "deviceId": "seyondevice2", "key": "7uNb1Gfm5fNzTluCNwMfgxcykXlwyEJkCDHaIVSp1eo=", "protocol": "mqtt", "data": "{tem: 25, wind: 20}" }
+
+{"deviceID": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": { "Speed" : "25"}}
+
+{ "deviceId": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": "{tem: 25, wind: 20}" }
+
+{"deviceID": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": "{ AvgFlowRate : 500, FlowRate : 700, AvgStaticPressure : 525, StaticPressure : 518, AvgCasingPressure : 776, CasingPressure : 805, AvgTubingPressure : 609, TubingPressure : 588}"}
+
+
+{ "deviceId": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": "{tem: 25, wind: 20}" }
+
+
+msg1 = '{"deviceID": "seyonDevice1", '
+msg1 = msg1 + '"key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", '  
+msg1 = msg1 + '"protocol": "mqtt", '
+msg1 = msg1 + '"data": { "' + msg.topic + '": "' + msg.payload + '"}}'
+
+newMsg = { payload: msg1 };
+return newMsg;
+
+
+msg1 = '{"deviceID": "seyonDevice1", '
+msg1 = msg1 + '"key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", '  
+msg1 = msg1 + '"protocol": "mqtt", '
+msg1 = msg1 + '"data": "{' + msg.topic + '": "' + msg.payload + '}"}'
+
+newMsg = { payload: msg1 };
+return newMsg;
+
+
+
+
+{"deviceId": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": {"tem": "25", "wind": "20"}}
+
+{"deviceId": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": { "AvgFlowRate" : 500, "FlowRate" : 700, "AvgStaticPressure" : 525, "StaticPressure" : 518, "AvgCasingPressure" : 776, "CasingPressure" : 805, "AvgTubingPressure" : 609, "TubingPressure" : 588}}
+
+msg1 ='{"deviceId": "seyonDevice1", "key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", "protocol": "mqtt", "data": { "'+ msg.topic + '":"' + msg.payload + '"}}'
+
+msg1 = '{"deviceID": "seyonDevice1", '
+msg1 = msg1 + '"key": "ldVGC/lCFpEaiokPdnHfye0Bj4K6ZAHSbtbaa5TyqS0=", '  
+msg1 = msg1 + '"protocol": "mqtt", '
+msg1 = msg1 + '"data": {"' + msg.topic + '":"' + msg.payload + '"}}'
+
+newMsg = { payload: msg1 };
+return newMsg;
+
